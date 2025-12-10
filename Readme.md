@@ -15,7 +15,7 @@ This section acts as the primary table of contents. Each project is contained in
 
 | Project Name | Language(s) | Link to Project Folder |
 | :--- | :--- | :--- |
-| **[QR_code_creator]** | [Python] | [QR_code_creator](./qr_code_creator)|
+| **[QR_code_creator]** | [Python] | [QR_code_creator](./qr_code_creator.py)|
 | **[Project 2 Name]** | [e.g., JS, HTML] | [./folder-name-2/README.md] |
 | **[Project 3 Name]** | [e.g., C] | [./folder-name-3/README.md] |
 

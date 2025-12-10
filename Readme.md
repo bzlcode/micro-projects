@@ -14,11 +14,11 @@ This repository serves as a **code sandbox** for short **projects** and coding d
 This section acts as the primary table of contents. Each project is contained in its own folder and includes a dedicated `README.md` with instructions.
 
 | Project Name | Language(s) | Link to Project Folder |
-| :--- | :--- | :--- | :--- |
-| **[Qr-code-creator]** | [Python] | [./folder-name/README.md] |
+| :--- | :--- | :--- |
+| **[Project 1 Name]** | [e.g., Python] | [./folder-name/README.md] |
 | **[Project 2 Name]** | [e.g., JS, HTML] | [./folder-name-2/README.md] |
 | **[Project 3 Name]** | [e.g., C] | [./folder-name-3/README.md] |
-| [Add New Project Here] | | | |
+| [Add New Project Here] | | |
 
 ---
 

@@ -15,7 +15,7 @@ This section acts as the primary table of contents. Each project is contained in
 
 | Project Name | Language(s) | Link to Project Folder |
 | :--- | :--- | :--- |
-| **[qr_code_creator]** | [Python] | [QR_code_creator](./qr_code_creator.py/)|
+| **[qr_code_creator]** | [Python] | [QR_code_creator](./qr_code_creator.py/) |
 
 ---
 

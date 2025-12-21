@@ -4,7 +4,7 @@ This repository serves as a **code sandbox** for short **projects** and coding d
 
 ## 🚀 Technologies
 
-* **Languages:** Python, JavaScript
+* **Languages:** Python
 * **Tools:** Git
 
 ---
@@ -21,4 +21,4 @@ This section acts as the primary table of contents. Each project is contained in
 
 ## 🛠️ Getting Started
 
-To run any project, clone the entire repository and follow the specific instructions in the project's internal `README.md`.
+To run a project, clone the repository.
